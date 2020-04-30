@@ -522,6 +522,7 @@
   "com.github.unisay mockserver-client-scala_*": "Unisay/mockserver-client-scala",
   "com.github.unisay moki_*": "Unisay/moki",
   "com.github.unisay wired_*": "Unisay/wired",
+  "com.github.valydia sbt-apidoc": "valydia/sbt-apidoc",
   "com.github.walfie pogoprotos*": "walfie/pogoprotos.scala",
   "com.github.wookietreiber sbt-scaliterate": "wookietreiber/sbt-scaliterate",
   "com.github.yoshiyoshifujii sbt-aws-serverless": "yoshiyoshifujii/sbt-aws-serverless",
